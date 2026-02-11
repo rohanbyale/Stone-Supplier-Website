@@ -6,11 +6,11 @@ const StoneGallery = () => {
   const galleryItems = [
     { id: 1, title: "Silver Grey Quartzite", cat: "Wall Cladding", img: "https://i.pinimg.com/736x/68/37/54/6837546cdb19458d9a4aaa5180bc08f6.jpg", height: "h-64 md:h-80" },
     { id: 2, title: "Copper Slate", cat: "Flooring", img: "https://i.pinimg.com/1200x/e2/82/71/e28271f0ae3a6549c8e0a36ba7ab736c.jpg", height: "h-48 md:h-64" },
-    { id: 3, title: "Rustic Ledge", cat: "Exterior", img: "https://images.unsplash.com/photo-1621293954908-907159247fc8?auto=format&fit=crop&w=600&q=80", height: "h-72 md:h-96" },
+    { id: 3, title: "Rustic Ledge", cat: "Exterior", img: "https://i.pinimg.com/736x/3d/f1/77/3df17765a5cd185d99d1902cd68214be.jpg", height: "h-72 md:h-96" },
     { id: 4, title: "Honed Basalt", cat: "Modern Interior", img: "https://i.pinimg.com/1200x/c6/2a/f0/c62af0e90acddfd103e5c0cb419469fa.jpg", height: "h-56 md:h-72" },
     { id: 5, title: "Desert Sandstone", cat: "Patios", img: "https://i.pinimg.com/1200x/70/65/ad/7065ad255859bec235ddd1e9296f20e2.jpg", height: "h-64 md:h-80" },
     { id: 6, title: "Kandla Grey", cat: "Driveways", img: "https://i.pinimg.com/736x/54/d3/41/54d3416054e9ec6a9aa3d402a381d30f.jpg", height: "h-48 md:h-64" },
-    { id: 7, title: "Teakwood Sandstone", cat: "Feature Wall", img: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=600&q=80", height: "h-72 md:h-96" },
+    { id: 7, title: "Teakwood Sandstone", cat: "Feature Wall", img: "https://i.pinimg.com/1200x/6a/f7/2b/6af72b87effb8c3168581c1830f45ebb.jpg", height: "h-72 md:h-96" },
     { id: 8, title: "Black Limestone", cat: "Pool Deck", img: "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=600&q=80", height: "h-56 md:h-72" },
   ];
 
@@ -89,5 +89,6 @@ const StoneGallery = () => {
     </section>
   );
 };
+
 
 export default StoneGallery;
