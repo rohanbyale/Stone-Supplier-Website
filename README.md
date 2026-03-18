@@ -16,7 +16,7 @@
 ---
 
 ## 🔗 Live Demo
-**View the Site:** https://urban-rise-builders.vercel.app/
+**View the Site:**
 
 ---
 
